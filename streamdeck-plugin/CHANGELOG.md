@@ -1,5 +1,5 @@
-# Changelog SID
-###### All notable changes for the Stream Deck Plugin are documented here.
+# Changelog Stream Deck Plugin
+###### All notable changes for this plugin are documented here.
 
 <!--
 Types of changes:
