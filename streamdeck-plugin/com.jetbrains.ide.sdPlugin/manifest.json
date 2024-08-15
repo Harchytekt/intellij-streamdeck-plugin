@@ -9,7 +9,7 @@
   "Name": "JetBrains IDE",
   "Icon": "icons/idea",
   "URL": "https://github.com/JetBrains/intellij-streamdeck-plugin",
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "OS": [
     {
       "Platform": "mac",
@@ -71,6 +71,18 @@
       "Tooltip": "New Project",
       "SupportedInMultiActions": true,
       "UUID": "com.jetbrains.idea.new"
+    },
+    {
+      "Icon": "icons/actions/recentProjects_dark",
+      "Name": "Open Recent",
+      "States": [
+        {
+          "Image": "icons/recentProjects_dark"
+        }
+      ],
+      "Tooltip": "Open Recent",
+      "SupportedInMultiActions": true,
+      "UUID": "com.jetbrains.idea.open.recent"
     },
     {
       "Icon": "icons/actions/run_dark",

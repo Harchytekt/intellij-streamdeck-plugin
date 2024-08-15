@@ -1,4 +1,10 @@
+1.0.6
+
+- Order actions from `idea-plugin.ts` alphabetically
+- Move plugins to subfolders
+
 1.0.5
+
 - Change version from v1.0.4 to v1.0.5 (_`Step Into` action added without version change…_)
 - Change IntelliJ IDEA icon to use the 2024.2 version
 - Fix `Resume` button icon (_colored icon, same as other buttons_)
