@@ -25,11 +25,11 @@
   },
   "Actions": [
     {
-      "Icon": "icons/actions/openActionBrowser_dark",
+      "Icon": "icons/actions/openActionBrowser",
       "Name": "Open Action Browser",
       "States": [
         {
-          "Image": "icons/openActionBrowser_dark"
+          "Image": "icons/openActionBrowser"
         }
       ],
       "Tooltip": "Browse and copy action ID in IDE",
@@ -37,11 +37,11 @@
       "UUID": "com.jetbrains.idea.action.browser"
     },
     {
-      "Icon": "icons/actions/customized_dark",
+      "Icon": "icons/actions/customized",
       "Name": "Customized Action",
       "States": [
         {
-          "Image": "icons/customized_dark"
+          "Image": "icons/customized"
         }
       ],
       "Tooltip": "Customized Action",
@@ -49,11 +49,11 @@
       "UUID": "com.jetbrains.idea.empty.action"
     },
     {
-      "Icon": "icons/actions/update_dark",
+      "Icon": "icons/actions/update",
       "Name": "Update Project",
       "States": [
         {
-          "Image": "icons/update_dark"
+          "Image": "icons/update"
         }
       ],
       "Tooltip": "Update Project",
@@ -61,11 +61,11 @@
       "UUID": "com.jetbrains.idea.git.pull"
     },
     {
-      "Icon": "icons/actions/newProject_dark",
+      "Icon": "icons/actions/newProject",
       "Name": "New Project",
       "States": [
         {
-          "Image": "icons/newProject_dark"
+          "Image": "icons/newProject"
         }
       ],
       "Tooltip": "New Project",
@@ -73,11 +73,11 @@
       "UUID": "com.jetbrains.idea.project.new"
     },
     {
-      "Icon": "icons/actions/recentProjects_dark",
+      "Icon": "icons/actions/recentProjects",
       "Name": "Open Recent",
       "States": [
         {
-          "Image": "icons/recentProjects_dark"
+          "Image": "icons/recentProjects"
         }
       ],
       "Tooltip": "Open Recent",
@@ -86,10 +86,11 @@
     },
     {
       "Icon": "icons/actions/run_dark",
+      "Icon": "icons/actions/run",
       "Name": "Run",
       "States": [
         {
-          "Image": "icons/run_dark"
+          "Image": "icons/run"
         }
       ],
       "Tooltip": "Run",
@@ -97,11 +98,11 @@
       "UUID": "com.jetbrains.idea.run"
     },
     {
-      "Icon": "icons/actions/debug_dark",
+      "Icon": "icons/actions/debug",
       "Name": "Debug",
       "States": [
         {
-          "Image": "icons/debug_dark"
+          "Image": "icons/debug"
         }
       ],
       "Tooltip": "Debug",
@@ -109,46 +110,46 @@
       "UUID": "com.jetbrains.idea.debug"
     },
     {
-      "Icon": "icons/actions/stepOver_dark",
+      "Icon": "icons/actions/stepOver",
       "Name": "Step Over",
       "SupportedInMultiActions": true,
       "States": [
         {
-          "Image": "icons/stepOver_dark"
+          "Image": "icons/stepOver"
         }
       ],
       "Tooltip": "Step Over",
       "UUID": "com.jetbrains.idea.step.over"
     },
     {
-      "Icon": "icons/actions/stepInto_dark",
+      "Icon": "icons/actions/stepInto",
       "Name": "Step Into",
       "SupportedInMultiActions": true,
       "States": [
         {
-          "Image": "icons/stepInto_dark"
+          "Image": "icons/stepInto"
         }
       ],
       "Tooltip": "Step Into",
       "UUID": "com.jetbrains.idea.step.into"
     },
     {
-      "Icon": "icons/actions/stepOut_dark",
+      "Icon": "icons/actions/stepOut",
       "Name": "Step Out",
       "SupportedInMultiActions": true,
       "States": [
         {
-          "Image": "icons/stepOut_dark"
+          "Image": "icons/stepOut"
         }
       ],
       "UUID": "com.jetbrains.idea.action.step.out"
     },
     {
-      "Icon": "icons/actions/resume_dark",
+      "Icon": "icons/actions/resume",
       "Name": "Resume",
       "States": [
         {
-          "Image": "icons/resume_dark"
+          "Image": "icons/resume"
         }
       ],
       "Tooltip": "Resume",
@@ -156,11 +157,11 @@
       "UUID": "com.jetbrains.idea.resume"
     },
     {
-      "Icon": "icons/actions/pause_dark",
+      "Icon": "icons/actions/pause",
       "Name": "Pause",
       "States": [
         {
-          "Image": "icons/pause_dark"
+          "Image": "icons/pause"
         }
       ],
       "Tooltip": "Pause",
@@ -168,33 +169,33 @@
       "UUID": "com.jetbrains.idea.action.pause"
     },
     {
-      "Icon": "icons/actions/find_dark",
+      "Icon": "icons/actions/find",
       "Name": "Search Everywhere",
       "States": [
         {
-          "Image": "icons/find_dark"
+          "Image": "icons/find"
         }
       ],
       "SupportedInMultiActions": true,
       "UUID": "com.jetbrains.idea.search.everywhere"
     },
     {
-      "Icon": "icons/actions/stop_dark",
+      "Icon": "icons/actions/stop",
       "Name": "Stop",
       "States": [
         {
-          "Image": "icons/stop_dark"
+          "Image": "icons/stop"
         }
       ],
       "SupportedInMultiActions": true,
       "UUID": "com.jetbrains.idea.action.stop"
     },
     {
-      "Icon": "icons/actions/projectStructure_dark",
+      "Icon": "icons/actions/projectStructure",
       "Name": "Project Structure",
       "States": [
         {
-          "Image": "icons/projectStructure_dark"
+          "Image": "icons/projectStructure"
         }
       ],
       "SupportedInMultiActions": true,
