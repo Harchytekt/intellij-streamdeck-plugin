@@ -1,4 +1,1 @@
-<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
-<svg width="72" height="72" viewBox="-8 -8 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="2.5" y="2.5" width="11" height="11" rx="1.5" fill="#5E3838" stroke="#DB5C5C"/>
-</svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg"><path d="m51.052 18.5c1.047 0 2.051.388 2.792 1.078.74.691 1.156 1.627 1.156 2.604v27.16c0 .971-.413 1.901-1.149 2.587s-1.733 1.071-2.774 1.071h-29.117c-2.187 0-3.96-1.653-3.96-3.692v-27.112c0-2.041 1.774-3.696 3.963-3.696z" fill="#db5c5c" transform="matrix(.945946 0 0 1.01449 1.47297 -.268116)"/><path d="m52.445 21.053c1.963 0 3.555 1.362 3.555 3.042v23.881c0 .802-.372 1.571-1.035 2.138s-1.562.886-2.499.886h-27.933c-1.951 0-3.533-1.353-3.533-3.023v-23.962c0-.786.365-1.539 1.014-2.094.649-.556 1.53-.868 2.448-.868z" fill="#5e3838" transform="matrix(.857143 0 0 1.00177 3 -.090395)"/></svg>

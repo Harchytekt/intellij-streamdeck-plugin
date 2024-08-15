@@ -2,6 +2,9 @@
 
 - Order actions from `idea-plugin.ts` alphabetically
 - Move plugins to subfolders
+- Align naming convention for icons
+- Align size of icons
+- Fix "actions" icons for run and stop
 - Add Open Recent action
 
 1.0.5

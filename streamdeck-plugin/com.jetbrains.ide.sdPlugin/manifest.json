@@ -25,11 +25,11 @@
   },
   "Actions": [
     {
-      "Icon": "icons/actions/web@20x20_dark",
+      "Icon": "icons/actions/openActionBrowser_dark",
       "Name": "Open Action Browser",
       "States": [
         {
-          "Image": "icons/web@72x72_dark"
+          "Image": "icons/openActionBrowser_dark"
         }
       ],
       "Tooltip": "Browse and copy action ID in IDE",
@@ -37,11 +37,11 @@
       "UUID": "com.jetbrains.idea.action.browser"
     },
     {
-      "Icon": "icons/actions/unknown@20x20_dark",
+      "Icon": "icons/actions/customized_dark",
       "Name": "Customized Action",
       "States": [
         {
-          "Image": "icons/unknown@72x72_dark"
+          "Image": "icons/customized_dark"
         }
       ],
       "Tooltip": "Customized Action",
@@ -49,11 +49,11 @@
       "UUID": "com.jetbrains.idea.empty.action"
     },
     {
-      "Icon": "icons/actions/update@20x20_dark",
+      "Icon": "icons/actions/update_dark",
       "Name": "Update Project",
       "States": [
         {
-          "Image": "icons/update@20x20_dark"
+          "Image": "icons/update_dark"
         }
       ],
       "Tooltip": "Update Project",
@@ -61,16 +61,16 @@
       "UUID": "com.jetbrains.idea.git.pull"
     },
     {
-      "Icon": "icons/actions/createNewProjectTab",
+      "Icon": "icons/actions/newProject_dark",
       "Name": "New Project",
       "States": [
         {
-          "Image": "icons/createNewProjectTab"
+          "Image": "icons/newProject_dark"
         }
       ],
       "Tooltip": "New Project",
       "SupportedInMultiActions": true,
-      "UUID": "com.jetbrains.idea.new"
+      "UUID": "com.jetbrains.idea.project.new"
     },
     {
       "Icon": "icons/actions/recentProjects_dark",
@@ -82,7 +82,7 @@
       ],
       "Tooltip": "Open Recent",
       "SupportedInMultiActions": true,
-      "UUID": "com.jetbrains.idea.open.recent"
+      "UUID": "com.jetbrains.idea.project.open.recent"
     },
     {
       "Icon": "icons/actions/run_dark",
