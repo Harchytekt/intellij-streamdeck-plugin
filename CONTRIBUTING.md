@@ -1,4 +1,4 @@
-TContributing to Stream Deck IDE Plugin
+Contributing to Stream Deck IDE Plugin
 =======================================
 
 <!-- TOC -->
@@ -109,7 +109,7 @@ npm run distribution
 How to quickly add an action button to the Stream Deck JS plugin:
 
 1. Find icons from https://jetbrains.design/intellij/resources/icons_list/ and in IDEA, change the size then choose context menu `Convert to PNG`.
-2. Find Action ID in IDEA by using IDE's [Internal Mode | UI Inspector | Action](https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html#action)
+2. Find Action ID in IDEA by using IDE's `Help | Open Action Browser`
 3. Input this ID to  Stream Deck button's Action settings to see if it works.
 4. Edit [manifest.json](com.jetbrains.ide.sdPlugin/manifest.json), copy the Actions definition;
 5. Reference [newProject.ts](streamdeck-plugin/src/actions/newProject.ts) to add a new Action TypeScript class.
