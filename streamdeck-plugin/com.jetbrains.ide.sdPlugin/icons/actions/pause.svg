@@ -1,5 +1,1 @@
-<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
-<svg width="20" height="20" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="3.5" y="2.5" width="3" height="11" rx="0.5" stroke="#EFEFEF"/>
-<rect x="9.5" y="2.5" width="3" height="11" rx="0.5" stroke="#EFEFEF"/>
-</svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><g fill="#efefef"><path d="m22.5 22.262v25.476c0 1.8-.982 3.262-2.193 3.262h-2.614c-1.211 0-2.193-1.462-2.193-3.262v-25.476c0-1.8.982-3.262 2.193-3.262h2.614c1.211 0 2.193 1.462 2.193 3.262zm-1.562.004c0-.514-.281-.932-.626-.932h-2.618c-.346 0-.627.418-.627.932v25.471c0 .514.281.932.627.932h2.618c.345 0 .626-.418.626-.932z" transform="matrix(.785714 0 0 .499988 -8.92856 -7.49958)"/><path d="m22.5 22.262v25.476c0 1.8-.982 3.262-2.193 3.262h-2.614c-1.211 0-2.193-1.462-2.193-3.262v-25.476c0-1.8.982-3.262 2.193-3.262h2.614c1.211 0 2.193 1.462 2.193 3.262zm-1.562.004c0-.514-.281-.932-.626-.932h-2.618c-.346 0-.627.418-.627.932v25.471c0 .514.281.932.627.932h2.618c.345 0 .626-.418.626-.932z" transform="matrix(.785714 0 0 .499988 -.928564 -7.49958)"/></g></svg>
