@@ -2,6 +2,7 @@
 
 - Order actions from `idea-plugin.ts` alphabetically
 - Move plugins to subfolders
+- Add Open Recent action
 
 1.0.5
 
