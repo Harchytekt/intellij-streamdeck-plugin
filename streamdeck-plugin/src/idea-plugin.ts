@@ -4,6 +4,7 @@
 
 import {StreamDeckPluginHandler} from 'streamdeck-typescript'
 import {ActionIdBrowserAction} from "./actions/action-id-browser-action";
+import {ChooseConfigurationAction} from "./actions/choose-configuration-action";
 import {DebugAction} from "./actions/debug-action";
 import {EmptyAction} from "./actions/empty-action";
 import {GitPullAction} from './actions/git-pull-action'
@@ -23,6 +24,7 @@ export class IdeaPlugin extends StreamDeckPluginHandler {
     constructor() {
         super();
         new ActionIdBrowserAction(this, 'com.jetbrains.idea.action.browser');
+        new ChooseConfigurationAction(this, "com.jetbrains.idea.choose.configuration");
         new DebugAction(this, "com.jetbrains.idea.debug");
         new EmptyAction(this, 'com.jetbrains.idea.empty.action');
         new GitPullAction(this, 'com.jetbrains.idea.git.pull');

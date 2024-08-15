@@ -85,7 +85,18 @@
       "UUID": "com.jetbrains.idea.project.open.recent"
     },
     {
-      "Icon": "icons/actions/run_dark",
+      "Icon": "icons/actions/chooseConfiguration",
+      "Name": "Choose Configuration",
+      "States": [
+        {
+          "Image": "icons/chooseConfiguration"
+        }
+      ],
+      "Tooltip": "Choose Config",
+      "SupportedInMultiActions": true,
+      "UUID": "com.jetbrains.idea.choose.configuration"
+    },
+    {
       "Icon": "icons/actions/run",
       "Name": "Run",
       "States": [

@@ -112,5 +112,5 @@ How to quickly add an action button to the Stream Deck JS plugin:
 2. Find Action ID in IDEA by using IDE's `Help | Open Action Browser`
 3. Input this ID to  Stream Deck button's Action settings to see if it works.
 4. Edit [manifest.json](com.jetbrains.ide.sdPlugin/manifest.json), copy the Actions definition;
-5. Reference [newProject.ts](streamdeck-plugin/src/actions/newProject.ts) to add a new Action TypeScript class.
+5. Reference [new-project-action.ts](streamdeck-plugin/src/actions/new-project-action.ts) to add a new Action TypeScript class.
 6. Before release, please check [Resources](#Resources) section.

@@ -5,7 +5,8 @@
 - Align naming convention for icons
 - Align size of icons
 - Fix "actions" icons for run and stop
-- Add Open Recent action
+- Add `Open Recent` action
+- Add `Choose Config` action
 
 1.0.5
 
